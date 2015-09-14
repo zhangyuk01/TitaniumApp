@@ -1,0 +1,1 @@
+/workspace/titaniumApp/Resources/app.js
